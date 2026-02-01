@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RadioactivityMonitor.Tests/RadioactivityMonitor.Tests.csproj" />
+  <Project Path="RadioactivityMonitor/RadioactivityMonitor.csproj" />
+</Solution>
